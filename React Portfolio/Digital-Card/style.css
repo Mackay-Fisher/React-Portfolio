@@ -1,0 +1,134 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Inter, sans-serif;
+    height: 100vh;
+    background-color: #23252C;
+}
+.person{
+    display: block;
+      margin-top: 40px;
+        margin-left: auto;
+        margin-right: auto;
+        width: 70%;
+        border-style: solid;
+        border-width: 3px; 
+        border-radius: 10px 10px 0 0;
+}
+.bio{
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 0px;
+        width: 70%;
+        background-color: #1A1B21; 
+        padding: 1px 0px;
+}
+.name{
+    display: block;
+    color: #FFFFFF;
+    font-size: 36px;
+    margin: 0;
+    text-align: center;
+    margin-top: 20px;
+}
+.job{
+    color: #F3BF99;
+    font-size: 14px;
+    margin:0;
+    text-align: center;
+    margin-top: 8px;
+}
+.web{
+    color: #F5F5F5;
+    font-size: 12px;
+   margin:0;
+    text-align: center;
+    margin-top: 8px;
+}
+
+.buttons{
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 0px;
+        width: 70%;
+        background-color: #1A1B21; 
+        padding: 4% 0px;
+        text-align: center;
+        font-size: 16px;
+        
+}
+.b1{
+    margin-right: 2%; 
+    padding: 1.5% 0px;
+    width: 33%;
+    margin: 0px;
+    border-style: line;
+    border-radius: 10%;
+    border-color: white;
+    font-size: 100%;
+    margin-right: 3%;
+    
+}
+.fa-envelope{
+    font-size: 100%;
+    margin: 0px;
+    margin-right: 5%;
+}
+.b2{
+    margin-right: 2%; 
+    padding-top: .8%;
+    padding-bottom: 1.5%; 
+    width: 33%;
+    margin: 0px;
+    border-style: line;
+    border-radius: 10%;
+    background-color: #5093E2;
+    border-color: #5093E2;
+    font-size: 100%;
+    margin-left: 3%;
+    color: #FFFFFF; 
+}
+
+.fa-linkedin-square{
+    color: #FFFFFF;
+    font-size: 130%;
+    margin-right: 5%;
+}
+.info{
+        margin-left: auto;
+        margin-right: auto;
+        width: 70%;
+        color: #FFFFFF;
+        background-color: #1A1B21; 
+        padding: 1px 0px;
+}
+.info > h1 {
+    padding: 0px 75px;
+}
+
+.info > p{
+    padding: 0px 75px;
+}
+.iconnav{
+    margin-left: auto;
+        margin-right: auto;
+        width: 70%;
+        color: #FFFFFF;
+        background-color: #161619; 
+        padding: 2% 2%;
+        text-align: center;
+        font-size: 150%;
+}
+.iconnav > button{
+    margin-left: 5%;
+    margin-right: 5%;
+    color: #161619;
+    background-color: #918E9B;  
+    
+}
+.intrest{
+    margin-bottom: 50px
+}
